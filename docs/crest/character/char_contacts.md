@@ -121,6 +121,7 @@ Used like adding, just set to the values you want to adjust.
 
 ```json
 {
+    "standing": "10.0",
     "contactType": "Character",
     "contact": {
         "id_str": "1600000294",
